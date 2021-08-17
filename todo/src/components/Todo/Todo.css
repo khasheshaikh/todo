@@ -1,13 +1,13 @@
 .home{
-    background-color: #082032 !important;
+    background: #082032 !important;
     margin: 5px;
     padding: 5px;
 }
 .todolist{
-    background-color:#526779 !important;
+    background-color: #082032 !important;
     color: #757575;
-    margin: 5px;
-    padding: 5px;
+    height: 655px;
+    
 }
 .todoitem{
     font-size: 20px;
@@ -15,21 +15,30 @@
     padding: 5px;
 }
 .addtodo{
-    background-color: #526779 !important;
+    
     margin: 5px;
     padding: 5px;
     margin-top: 30px;
 }
 .btn-primary{
     background-color: #FF4C29 !important;
-    margin-top: 20px;
+    
     border-color: #FF4C29 !important;
     
 }
 .input{
     font-size: xx-large;
+    
 }
 h2{
     color: white;
     text-align: center;
+}
+.de{
+    color: #FF4C29;
+    font-size: -webkit-xxx-large;
+    vertical-align: top;
+}
+.de{
+    font-size: -webkit-xx-large;
 }
